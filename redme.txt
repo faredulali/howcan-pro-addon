@@ -1,0 +1,44 @@
+=== Howcan Pro Addons ===
+Contributors: faredulali
+Author: Faredul Ali
+Author URI: https://github.com/faredulali
+Plugin URI: https://github.com/faredulali/howcan-pro-addons
+Tags: howcan, addons, theme, pro, customization
+Requires at least: 5.0
+Tested up to: 6.7
+Requires PHP: 7.4
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Enhance your Howcan theme with premium features including layouts, colors, header options, and more.
+
+== Description ==
+
+Howcan Pro Addons extends the free **Howcan** WordPress theme by adding advanced customization options, layouts, color schemes, and header/footer controls.
+
+== Installation ==
+
+1. Upload the plugin files to the `/wp-content/plugins/howcan-pro-addons/` directory, or install through the WordPress plugins screen directly.
+2. Activate the plugin through the 'Plugins' screen in WordPress.
+3. Enjoy new premium options in the Howcan theme customizer.
+
+== Frequently Asked Questions ==
+
+= Does this require the Howcan theme? =
+Yes. This plugin only works when the Howcan theme is active.
+
+= Is this a free or premium plugin? =
+It’s part of the Howcan premium theme system, used to unlock advanced options.
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release of Howcan Pro Addons.
+
+== Upgrade Notice ==
+
+= 1.0.0.1 =
+- Added: Demo Import Modiul 
+= 1.0.0 =
+- First stable release.
